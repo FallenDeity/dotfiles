@@ -1,0 +1,96 @@
+:root {
+  --base-font: rgba(240, 233, 233, 1);
+  --dimmed-font: rgba(226, 216, 216, 0.637);
+  --fading-font: rgba(230, 223, 223, 0.753);
+  --grey-font: rgba(212, 212, 212, 1);
+  --font-inactive: rgba(228, 223, 223, 0.603);
+
+  --common-styles: rgba(121, 3, 190, 0.637);
+  --common-style-border: rgba(72, 7, 110, 0.596);
+  --dim-background: rgba(208, 157, 238, 0.119);
+  --content-background: rgba(65, 0, 109, 0.9);
+  --accent-color: rgba(45, 5, 63, 0.9);
+  --content-border: rgba(81, 1, 134, 0.658);
+  --selection-background: rgba(168, 11, 216, 0.884);
+  --dash-background: rgba(196, 150, 228, 0.3);
+
+  --button-color: rgba(51, 38, 59, 0.747);
+  --button-focus: rgba(115, 8, 187, 0.815);
+  --button-focus-hover: rgba(115, 8, 187, 0.815);
+  --button-focus-active: rgba(115, 8, 187, 0.815);
+  --button-shadow: rgba(164, 53, 228, 0.7);
+  --button-hover: rgba(115, 8, 187, 0.815);
+  --button-inactive: rgba(47, 39, 51, 0.637);
+  --button-active: rgba(159, 8, 219, 0.842);
+  --button-checked: rgba(159, 8, 219, 0.842);
+  --button-checked-hover: rgba(159, 8, 219, 0.842);
+  --button-checked-active: rgba(159, 8, 219, 0.842);
+
+  --notification-background: rgba(37, 3, 59, 0.788);
+  --notification-focus: rgba(115, 8, 187, 0.815);
+  --notification-focus-hover: rgba(115, 8, 187, 0.815);
+  --notification-focus-active: rgba(115, 8, 187, 0.815);
+  --notification-hover: rgba(115, 8, 187, 0.815);
+  --notification-active: rgba(115, 8, 187, 0.815);
+  --notification-checked: rgba(115, 8, 187, 0.815);
+  --notification-checked-hover: rgba(115, 8, 187, 0.815);
+  --notification-checked-active: rgba(115, 8, 187, 0.815);
+
+  --screenshot-focus: rgba(115, 8, 187, 0.815);
+  --screenshot-focus-hover: rgba(115, 8, 187, 0.815);
+  --screenshot-focus-active: rgba(115, 8, 187, 0.815);
+  --screenshot-hover: rgba(115, 8, 187, 0.815);
+  --screenshot-active: rgba(115, 8, 187, 0.815);
+  --screenshot-checked: rgba(115, 8, 187, 0.815);
+  --screenshot-checked-hover: rgba(115, 8, 187, 0.815);
+  --screenshot-checked-active: rgba(115, 8, 187, 0.815);
+
+  --shell-link: rgba(204, 143, 240, 1);
+  --shell-link-hover: rgba(218, 188, 246, 1);
+
+  --icon-shadow: rgba(0, 0, 0, 0.4) !important;
+  --error: rgba(192, 28, 40, 1) !important;
+  --warning: rgba(205, 147, 9, 1) !important;
+  --dim-gray: rgba(212, 212, 212, 0.3) !important;
+
+  --entry-active: rgba(159, 8, 219, 0.842);
+  --entry-checked: rgba(159, 8, 219, 0.842);
+  --entry-hover: rgba(115, 8, 187, 0.815);
+  --entry-focus: rgba(143, 29, 219, 0.815);
+  --entry-inactive: rgba(56, 56, 56, 0.7);
+
+  --dim-inactive: rgba(255, 255, 255, 0.2);
+  --scrollbar-button: rgba(51, 38, 59, 0.747);
+  --scrollbar-hover: rgba(115, 8, 187, 0.815);
+  --scrollbar-active: rgba(159, 8, 219, 0.842);
+
+  --datebutton-focus: rgba(115, 8, 187, 0.815);
+  --datebutton-focus-hover: rgba(115, 8, 187, 0.815);
+  --datebutton-focus-active: rgba(115, 8, 187, 0.815);
+  --datebutton-hover: rgba(115, 8, 187, 0.815);
+
+  --calendar-focus: rgba(115, 8, 187, 0.815);
+  --calendar-hover: rgba(115, 8, 187, 0.815);
+  --calender-inactive: rgba(47, 39, 51, 0.637);
+
+  --events-button: rgba(51, 38, 59, 0.747);
+
+  --message-color: rgba(73, 24, 163, 0.836);
+
+  --switch-list: rgba(255, 255, 255, 0.15);
+  --switch-list-focus: rgba(106, 77, 143, 0.13);
+  --switch-list-checked-hover: rgba(106, 77, 143, 0.13);
+  --switch-list-checked-active: rgba(106, 77, 143, 0.13);
+  --switch-list-active: rgba(106, 77, 143, 0.13);
+  --switch-list-checked: rgba(106, 77, 143, 0.13);
+  --switch-list-focus-active: rgba(106, 77, 143, 0.13);
+  --switch-list-focus-hover: rgba(106, 77, 143, 0.13);
+  --switch-list-drop: rgba(106, 77, 143, 0.2);
+
+  --panel-button-hover: rgba(91, 12, 136, 0.15);
+  --quicktoggle-hover: rgba(66, 5, 146, 0.514);
+  --workspace-background: rgba(3, 2, 1, 0);
+  --search-icon: rgba(228, 53, 161, 0.2);
+  --navigation-icon: rgba(207, 7, 90, 0.596);
+  --pale-color: rgba(255, 187, 224, 0.3);
+}
